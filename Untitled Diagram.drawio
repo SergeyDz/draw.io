@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T13:37:38.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JOZehy6BTgxfmW57kC5f" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T14:21:15.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mIPnJ4On1VHOsi_K7SKr" version="21.0.10" type="github">
   <diagram name="Page-1" id="zjmSkFf3N7D6mE1VtNUy">
     <mxGraphModel dx="2021" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuMvvWa5Z8iLzGaw_m6S-3" target="AuMvvWa5Z8iLzGaw_m6S-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AuMvvWa5Z8iLzGaw_m6S-3" value="fix Vault + Oracle configuration drift between KIPx-KIP0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="AuMvvWa5Z8iLzGaw_m6S-3" value="[&lt;b&gt;CICD-2002&lt;/b&gt;] Vault + Oracle configuration drift between KIPx-KIP0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuMvvWa5Z8iLzGaw_m6S-4" target="AuMvvWa5Z8iLzGaw_m6S-3">
@@ -58,13 +58,13 @@
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuMvvWa5Z8iLzGaw_m6S-12" target="AuMvvWa5Z8iLzGaw_m6S-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AuMvvWa5Z8iLzGaw_m6S-12" value="Split KIP1-2-3 Oracle\Postgres" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="AuMvvWa5Z8iLzGaw_m6S-12" value="[&lt;b&gt;CICD-2003&lt;/b&gt;] Split KIP1-2-3 Oracle\Postgres" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="230" y="100" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuMvvWa5Z8iLzGaw_m6S-15" target="AuMvvWa5Z8iLzGaw_m6S-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AuMvvWa5Z8iLzGaw_m6S-15" value="fix Vault + Postgres configuration drift for KIPx-KIP1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="AuMvvWa5Z8iLzGaw_m6S-15" value="[&lt;b&gt;CICD-2002&lt;/b&gt;] Vault + Postgres configuration drift for KIPx-KIP1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="410" y="100" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuMvvWa5Z8iLzGaw_m6S-17" target="AuMvvWa5Z8iLzGaw_m6S-19">
@@ -102,20 +102,20 @@
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuMvvWa5Z8iLzGaw_m6S-29" target="AuMvvWa5Z8iLzGaw_m6S-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AuMvvWa5Z8iLzGaw_m6S-29" value="Detect configuration drift between KIP1-0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="AuMvvWa5Z8iLzGaw_m6S-29" value="[&lt;b&gt;CICD-2004&lt;/b&gt;] Detect configuration drift between KIP1-0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="840" y="340" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-30" value="Deploy KIP1-&amp;gt;KIP2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1020" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AuMvvWa5Z8iLzGaw_m6S-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuMvvWa5Z8iLzGaw_m6S-31" target="AuMvvWa5Z8iLzGaw_m6S-32">
+        <mxCell id="AuMvvWa5Z8iLzGaw_m6S-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuMvvWa5Z8iLzGaw_m6S-31" target="AuMvvWa5Z8iLzGaw_m6S-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-31" value="Automate configuration drift fix" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1020" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-32" value="Auto-restore KIP1-KIP0 daily" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -130,7 +130,7 @@
           <mxGeometry x="-120" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="250" y="525" width="20" height="20" as="geometry" />
+          <mxGeometry x="290" y="525" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="410" y="525" width="20" height="20" as="geometry" />
@@ -142,7 +142,7 @@
           <mxGeometry x="690" y="525" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-46" value="Done" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-47" value="Testing" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="520" width="60" height="30" as="geometry" />
@@ -161,6 +161,9 @@
         </mxCell>
         <mxCell id="AuMvvWa5Z8iLzGaw_m6S-52" value="Oracle + &lt;br&gt;Postgres (MS+Keycloak)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AuMvvWa5Z8iLzGaw_m6S-53" value="Oracle + &lt;br&gt;Postgres (MS+Keycloak)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="190" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
